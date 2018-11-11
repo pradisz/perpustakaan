@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Perpustakaan", "Perpustakaan\Perpustakaan.vcproj", "{A89E1FC7-8021-4E52-A958-E4438CD07442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89E1FC7-8021-4E52-A958-E4438CD07442}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A89E1FC7-8021-4E52-A958-E4438CD07442}.Debug|Win32.Build.0 = Debug|Win32
+		{A89E1FC7-8021-4E52-A958-E4438CD07442}.Release|Win32.ActiveCfg = Release|Win32
+		{A89E1FC7-8021-4E52-A958-E4438CD07442}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
